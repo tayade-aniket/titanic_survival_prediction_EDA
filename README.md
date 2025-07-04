@@ -29,7 +29,7 @@ To run this notebook locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/tayade-aniket/titanic_survival_prediction_EDA](https://github.com/tayade-aniket/titanic_survival_prediction_EDA)
+    git clone https://github.com/tayade-aniket/titanic_survival_prediction_EDA
     cd Titanic-EDA
     ```
 
