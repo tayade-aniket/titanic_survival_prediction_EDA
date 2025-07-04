@@ -58,4 +58,4 @@ Feel free to fork this repository, open issues, or submit pull requests. Contrib
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/tayade-aniket/titanic_survival_prediction_EDA/blob/main/LICENSE) file for details.
